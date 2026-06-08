@@ -1,6 +1,9 @@
 body{
     margin: 0px;
-  background: linear-gradient(to bottom, #800000 0%, #e30000 50%, #ffff00 75%, #ff8000 95%);
+background-image: url('https://th.bing.com/th/id/OIP.bZ_1rxrnib3pz9vu_F0pAAHaE8?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3'), linear-gradient(45deg, #3b82f6 0%, #8b5cf6 100%);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 main{
     margin-left: 20px;
