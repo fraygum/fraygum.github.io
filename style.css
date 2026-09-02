@@ -5,6 +5,9 @@ background: linear-gradient(to right, #E7E9BB, #403B4A); /* W3C, IE 10+/ Edge, F
 background-attachment: fixed;
 background-size: cover;
 }    
-h1{
+h1 {
+  font-family: 'Press Start 2P', monospace;
+  font-size: 16px;
+  line-height: 1.5;
   text-align: center;
 }
