@@ -1,7 +1,5 @@
 body {
-.element {
-  background: linear-gradient(158deg, #000000 0%, #51e66f 100%);
-}
+background: linear-gradient(158deg, #000000 0%, #51e66f 100%);
 background-attachment: fixed;
 background-size: cover;
 }    
